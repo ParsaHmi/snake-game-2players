@@ -26,7 +26,7 @@ This is a simple two-player game with fantastic graphics (in CMD). You can add m
 - then you can set the speed !
 ![Screenshot 3](./screenshots/choosingSpeed.png)
 - now get ready , game will starts when any player moves , try to get apple and avoid from eating the bomb !
-![Screenshot 4](./screenshots/startingGame.png)
+![Screenshot 4](./screenshots/startinGame.png)
 - when any of players get bomb , or time ends , the game will end up .
 ![Screenshot 5](./screenshots/gameOver.png)
 - you can select table of scores from menu to see your scores
